@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349044156416', 'TIMOFC', true],
-  ['2348123035565', 'Timothy', false], 
-  ['2348077722045', 'crown', false] 
+  ['2349035269262', 'TIMOFC', true],
+  [], 
+  [] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349044156415','32460248586'] 
-global.prems = ['2349044156415', '2348123035565','2348077722045']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['2349035269262','32460248586'] 
+global.prems = ['2349035269262']
+global.allowed = ['917605902011', '32460248586', '2349035269262']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'TIMOFC'
+global.botname = 'TIMOFC BOT'
 global.premium = 'true'
 global.packname = 'Timofc' 
 global.author = 'TIMOFC' 
 global.menuvid = 'https://i.imgur.com/dUoUXRN.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/KHsXz1u7plA9EfWUquYtlc'
+global.dygp = 'https://chat.whatsapp.com/JDjBPbnudNLKY8DI99M3jd'
 global.fgsc = 'https://github.com/TheHonorendOnes/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
